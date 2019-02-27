@@ -248,8 +248,15 @@ margin-top: 100px;
 display: none;
 }
 
-.Videos{
-  margin-top: 150px;
+video{
+  width: 80%;
+  height: auto;
+  margin-left: 10%;
+
+
+}
+.videos{
+margin-top: 200px;
 }
 
 
@@ -322,9 +329,8 @@ display: none;
   color: white;
 }
 
-video{
-  width: 100%;
-  margin-bottom: -50px;
-}
+.videos{
+
+  margin-top: 50px;
 
 }
